@@ -27,7 +27,7 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Publish
-      run: dotnet publish --configuration Release --output ./publish
+      run: dotnet publish ./name-sorter/name-sorter.csproj --configuration Release --output ./publish
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
