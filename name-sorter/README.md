@@ -15,11 +15,14 @@ This is a .NET Core console application that sorts a list of names. Sorting is p
    cd name-sorter
 
 2. Restore the dependencies:
+   ```bash
    dotnet restore
 
 3. Run the application with the following command:
+   ```bash
    dotnet run --project name-sorter ./unsorted-names-list.txt
 
 4. To run the tests, use:
+   ```bash
    dotnet test
 
