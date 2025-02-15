@@ -1,0 +1,6 @@
+/Users/archanasappukuttan/Documents/Sreejith-code/Assesment/publish/name-sorter
+/Users/archanasappukuttan/Documents/Sreejith-code/Assesment/publish/unsorted-names-list.txt
+/Users/archanasappukuttan/Documents/Sreejith-code/Assesment/publish/name-sorter.dll
+/Users/archanasappukuttan/Documents/Sreejith-code/Assesment/publish/name-sorter.deps.json
+/Users/archanasappukuttan/Documents/Sreejith-code/Assesment/publish/name-sorter.runtimeconfig.json
+/Users/archanasappukuttan/Documents/Sreejith-code/Assesment/publish/name-sorter.pdb
