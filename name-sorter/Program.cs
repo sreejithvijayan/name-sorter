@@ -24,7 +24,7 @@ namespace NameSorter
                     return;
                 }
                 var unsortedListFile = File.ReadAllText(inputFilePath);
-                var unsortedList = unsortedListFile.Split("\n").ToList();
+                var unsortedList = unsortedListFile.Split("\n").ToList(); // Split the names by new line
                 var sortedList = NameSorterService.SortNames(unsortedList);  // Sort names
                 foreach (var name in sortedList)
                 {
