@@ -1,9 +1,3 @@
-using System;
-using System.Collections.Generic;
-using Xunit;
-using NameSorter;
-using Microsoft.VisualStudio.TestPlatform.TestHost;
-
 namespace NameSorter.Tests
 {
     public class NameSorterServiceTest
