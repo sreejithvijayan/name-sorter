@@ -406,3 +406,6 @@ FodyWeavers.xsd
 # Exclude unnecessary test files
 NameSorterTests/bin/
 NameSorterTests/obj/
+
+# Exclude unnecessary files
+.DS_Store
