@@ -11,7 +11,7 @@ This is a .NET Core console application that sorts a list of names. Sorting is p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/name-sorter.git
+   git clone https://github.com/sreejithvijayan/name-sorter.git
    cd name-sorter
 
 2. Restore the dependencies:
