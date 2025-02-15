@@ -28,9 +28,8 @@ jobs:
       run: dotnet test --no-build --verbosity normal
     - name: Publish
       run: dotnet publish --configuration Release --output ./publish
-
     - name: Upload artifact
       uses: actions/upload-artifact@v3
-        with:
+      with:
           name: published-app
           path: ./publish
