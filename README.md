@@ -4,7 +4,7 @@ This is a .NET Core console application that sorts a list of names. Sorting is p
 
 ## Prerequisites
 
-- .NET 6.0 SDK or later must be installed on your system.
+- .NET 9.0 SDK or later must be installed on your system.
 - Git must be installed to clone the repository.
 
 ## Installation
