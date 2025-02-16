@@ -17,7 +17,7 @@ namespace NameSorter
 
             try
             {
-                // Read names from file
+                // Read names from input file
                 if (!File.Exists(inputFilePath))
                 {
                     Console.WriteLine($"Error: File '{inputFilePath}' not found.");
